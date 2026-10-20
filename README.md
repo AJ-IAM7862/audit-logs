@@ -11,8 +11,8 @@ Entra ID.<br />
 - Windows 11
 <h2>Audit Logs </h2>
 <p>
-<img width="1914" height="869" alt="image"
-src="https://github.com/user-attachments/assets/4c447cef-3001-4f61-9ffd-e24ca4af592d" />
+<img width="959" height="534" alt="NN Audit Logs " src="https://github.com/user-attachments/assets/ef5c004d-2b26-45d4-acbc-e300adde45fd" />
+
 </p>
 <p>
 Audit Logs of user Nathaniel Nguyen.
